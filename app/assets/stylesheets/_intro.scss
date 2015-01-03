@@ -118,15 +118,15 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 20px 40px;
-    border-color: #fed136;
-    border-radius: 3px;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 18px;
-    font-weight: 700;
-    color: #fff;
-    background-color: #fed136;
+    // padding: 20px 40px;
+    // border-color: #fed136;
+    // border-radius: 3px;
+    // text-transform: uppercase;
+    // font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    // font-size: 18px;
+    // font-weight: 700;
+    // color: #fff;
+    // background-color: #000;
 }
 
 .btn-xl:hover,
@@ -493,7 +493,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
+    background-color: #6ff1d6;
 }
 
 .timeline>li .timeline-image h4 {
@@ -748,8 +748,8 @@ ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
     outline: 0;
-    color: #fff;
-    background-color: #222;
+    color: #000;
+    // background-color: #222;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -758,7 +758,8 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fed136;
+    color: #fff;
+    background-color: #000;
 }
 
 .btn:focus,
